@@ -8,7 +8,7 @@ My name is Tatiana
 - :seedling: I worked with REST API, [GraphQL](https://graphql.org)
 - :crystal_ball: Some of my projects: 
   - [Coffee shop](https://coffee-house-test.netlify.app/), 
-  - [Personal website](https://batudaeva.ru/) 
+  - [Personal website](https://batudaeva.ru/),
   - and [Company website](https://fusionnextinc.com/)
 
 I love :open_book: manga, :lotus_position_woman: yoga and :woman_cook: cooking
